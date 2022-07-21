@@ -9,3 +9,10 @@
 ```
 git clone <url to repository>
 ~~~
+ 
+ ## Сброс ветки 
+
+ Для сброса изменений о текущей ветки введите команду
+ ~~~
+ git reset <commit hash>
+ ~~~
